@@ -12,7 +12,7 @@ Komodo Theme for Debian 10 Buster
 **DVD CASE**
 ![dvd](/Material/DVD/png/komodo_DVD.png)
 
-**Cd**
+**CD**
 ![cd](/Material/CD/png/komodo_cd.png)
 
 **WEB BANNER**
@@ -24,7 +24,7 @@ Komodo Theme for Debian 10 Buster
 **GRUB**
 ![grub](/Grub/png/komodo_grub.png)
 
-**Syslinux isolinux**
-![grub_preview](/Syslinux_isolinux/png/komodo_syslinux_isolinux.png)
+**SYSLINUX ISOLINUX**
+![syslinux](/Syslinux_isolinux/png/komodo_syslinux_isolinux.png)
 
 https://wiki.debian.org/DebianArt/Themes/komodo
